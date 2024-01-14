@@ -21,7 +21,7 @@ e) Настроить переключение между данными без 
 4. Обработка данных в PQ, разворачивание таблиц, удаление столбцов, форматирование и пр.
 5. Создание переменных для автоматизации загрузки данных по выбранным идентификаторам
 6. Создание функции из API-запроса
-7. Вызов функции и загрузка 4-таблиц по списку выше
+7. Вызов функции и загрузка 4-таблиц по списку выше</br></br>
 
-![Кейс_4](https://github.com/ElenaTratsevskaya/DA-Power-BI_project-Creation-of-a-strategic-map-on-API-requests-data/assets/110056199/e4cefeda-907b-4e40-9c7f-170114e39d5c)
 
+![Кейс_4](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Creation-of-a-strategic-map-on-API-requests-data/assets/110056199/2c78db42-3b15-4d2d-9157-1cca66fa27ef)
