@@ -38,6 +38,7 @@ e) Настроить переключение между данными без 
       </br></br>
 ![#Кейс_4](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Creation-of-a-strategic-map-on-API-requests-data/assets/110056199/bcf6e8b7-071c-4001-b69f-cd5c4279234a)
 
+
 </br></br>
 
 **Лист "Детализация"**
@@ -46,5 +47,10 @@ e) Настроить переключение между данными без 
    
 </br></br>
 
+![#Кейс_4_подсказки](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Creation-of-a-strategic-map-on-API-requests-data/assets/110056199/489b0170-f0e1-4285-a2db-6dcc7e6443c4)
 
-![Кейс_4](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Creation-of-a-strategic-map-on-API-requests-data/assets/110056199/2c78db42-3b15-4d2d-9157-1cca66fa27ef)
+</br></br></br></br>
+![Кейс_4](https://github.com/ElenaTratsevskaya/DA-Power-BI-project_Creation-of-a-strategic-map-on-API-requests-data/assets/110056199/91a3f4d1-d9f0-4b16-9acc-b7824bba4ae9)
+
+
+
